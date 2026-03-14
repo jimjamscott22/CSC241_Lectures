@@ -1,0 +1,45 @@
+{
+    "crn": "12345",
+    "title": "Data Structure",
+    "time": "11:30:00",
+    "capacity": 19,
+    "number of students": 4,
+    "instructor": {
+        "name": "Dr.Laker",
+        "age": 39.3,
+        "id": "700123456",
+        "major": "cs",
+        "title": "professor",
+        "year": 2002
+    },
+    "students": [
+        {
+            "name": "John",
+            "age": 19,
+            "id": "123456789",
+            "year": 1,
+            "major": "cs"
+        },
+        {
+            "name": "Matthew",
+            "age": 19,
+            "id": "246864248",
+            "year": 1,
+            "major": "cs"
+        },
+        {
+            "name": "Rachel",
+            "age": 19,
+            "id": "555333111",
+            "year": 2,
+            "major": "cs"
+        },
+        {
+            "name": "David",
+            "age": 20,
+            "id": "987654321",
+            "year": 2,
+            "major": "cs"
+        }
+    ]
+}
