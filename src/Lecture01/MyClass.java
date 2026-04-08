@@ -1,4 +1,4 @@
-package Lecture01;
+package src.Lecture01;
 
 import java.nio.file.*;
 import java.io.*;
